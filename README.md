@@ -1,4 +1,4 @@
-[![Header](https://github.com/flpamaral/flpamaral/blob/main/cover.png?raw=true "Header")]
+![Header](https://github.com/flpamaral/flpamaral/blob/main/cover.png?raw=true | width=100 "Header")
 
 ### Hi there 👋
 
