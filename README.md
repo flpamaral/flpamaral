@@ -13,6 +13,6 @@ Python is my main tool to analyze data and my goal is to apply AI to solve real 
 <p align='left'>
 I love to learn and share experiences with others: I believe all knowledge should be public! :books:
 </p>
-<p align='left'>
+
 You can get in touch with me on [![Twitter](https://github.com/flpamaral/flpamaral/blob/main/images/twitter.png)](https://twitter.com/_flpamaral), or on [![LinkedIn](https://github.com/flpamaral/flpamaral/blob/main/images/linkedin.png)](https://www.linkedin.com/in/luis-felipe-amaral-da-cruz/).
-</p>
+
