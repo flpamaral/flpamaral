@@ -15,4 +15,3 @@ I love to learn and share experiences with others: I believe all knowledge shoul
 </p>
 
 You can get in touch with me on [![Twitter](https://github.com/flpamaral/flpamaral/blob/main/images/twitter.png)](https://twitter.com/_flpamaral) or on [![LinkedIn](https://github.com/flpamaral/flpamaral/blob/main/images/linkedin.png)](https://www.linkedin.com/in/luis-felipe-amaral-da-cruz/).
-
